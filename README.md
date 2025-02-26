@@ -6,7 +6,7 @@ Bu proje, front-end geliştirme pratiği yapmak amacıyla oluşturulmuştur. HTM
 
 ## Canlı Önizleme
 
-[Proje 1 - Çalışan Versiyon](https://doganaylab.com/practics/)
+[Proje 1 - Çalışan Versiyon](https://doganaylab.com/practics/fm/QR)
 
 ## Kullanılan Teknolojiler
 
